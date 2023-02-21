@@ -26,7 +26,7 @@ Q2. What does the command `git add` do?
 3. Adds a file to the .git directory
 4. Adds a file to the working directory
 
-Answer: 3
+Answer: 2
 
 ------
 
@@ -37,7 +37,7 @@ Q3 . What Git commands can be used to correct mistakes?
 3. `git reset` and `git revert`
 4. `git revert` and `git remove`
 
-Answer: 4
+Answer: 2
 
 ------
 
@@ -59,6 +59,6 @@ Q5. Pull requests provide a mechanism to request which git action?
 3. merge
 4. push
 
-Answer: 2
+Answer: 3
 
 
